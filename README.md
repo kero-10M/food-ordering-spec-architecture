@@ -25,7 +25,19 @@ A customer can cancel an order only while its status is `Submitted`. Once the re
 * Only the Orders component changes an order status, through one conditional update on the primary database.
 * Status screens read from a read replica, and every decision (cancel, accept) reads and writes only the primary.
 
-See the diagrams in [`diagrams/`](diagrams): `Context.png`, `Applications.png`, `Components.png`, `Sequence.png`, and the editable file `Kerollus-Lab4.drawio` (open it at https://app.diagrams.net).
+See the editable file `Kerollus-Lab4.drawio` (open it at https://app.diagrams.net).
+
+### Context
+![Context](Kerollus-Lab4-Context.drawio.png)
+
+### Applications
+![Applications](Kerollus-Lab4-Applications.drawio.jpg)
+
+### Components
+![Components](Kerollus-Lab4-Components.drawio.jpg)
+
+### Sequence
+![Sequence](Kerollus-Lab4-Sequence.drawio.jpg)
 
 ## Tools
 
