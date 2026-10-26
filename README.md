@@ -31,13 +31,13 @@ See the editable file `Kerollus-Lab4.drawio` (open it at https://app.diagrams.ne
 ![Context](diagrams/Kerollus-Lab4-Context.drawio.png)
 
 ### Applications
-![Applications](diagrams/Kerollus-Lab4-Applications.drawio.jpg)
+![Applications](diagrams/Kerollus-Lab4-Applications.drawio.png)
 
 ### Components
-![Components](diagrams/Kerollus-Lab4-Components.drawio.jpg)
+![Components](diagrams/Kerollus-Lab4-Components.drawio.png)
 
 ### Sequence
-![Sequence](diagrams/Kerollus-Lab4-Sequence.drawio.jpg)
+![Sequence](diagrams/Kerollus-Lab4-Sequence.drawio.png)
 
 ## Tools
 
