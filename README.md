@@ -28,16 +28,16 @@ A customer can cancel an order only while its status is `Submitted`. Once the re
 See the editable file `Kerollus-Lab4.drawio` (open it at https://app.diagrams.net).
 
 ### Context
-![Context](Kerollus-Lab4-Context.drawio.png)
+![Context](diagrams/Kerollus-Lab4-Context.drawio.png)
 
 ### Applications
-![Applications](Kerollus-Lab4-Applications.drawio.jpg)
+![Applications](diagrams/Kerollus-Lab4-Applications.drawio.jpg)
 
 ### Components
-![Components](Kerollus-Lab4-Components.drawio.jpg)
+![Components](diagrams/Kerollus-Lab4-Components.drawio.jpg)
 
 ### Sequence
-![Sequence](Kerollus-Lab4-Sequence.drawio.jpg)
+![Sequence](diagrams/Kerollus-Lab4-Sequence.drawio.jpg)
 
 ## Tools
 
